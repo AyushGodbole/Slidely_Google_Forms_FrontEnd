@@ -1,0 +1,14 @@
+C:\Users\AYUSH G\source\repos\FrontEnd\FrontEnd_Slidely\bin\Debug\FrontEnd_Slidely.exe.config
+C:\Users\AYUSH G\source\repos\FrontEnd\FrontEnd_Slidely\bin\Debug\FrontEnd_Slidely.exe
+C:\Users\AYUSH G\source\repos\FrontEnd\FrontEnd_Slidely\bin\Debug\FrontEnd_Slidely.pdb
+C:\Users\AYUSH G\source\repos\FrontEnd\FrontEnd_Slidely\bin\Debug\FrontEnd_Slidely.xml
+C:\Users\AYUSH G\source\repos\FrontEnd\FrontEnd_Slidely\bin\Debug\Newtonsoft.Json.dll
+C:\Users\AYUSH G\source\repos\FrontEnd\FrontEnd_Slidely\bin\Debug\Newtonsoft.Json.xml
+C:\Users\AYUSH G\source\repos\FrontEnd\FrontEnd_Slidely\obj\Debug\FrontEnd_Slidely.vbproj.AssemblyReference.cache
+C:\Users\AYUSH G\source\repos\FrontEnd\FrontEnd_Slidely\obj\Debug\FrontEnd_Slidely.Resources.resources
+C:\Users\AYUSH G\source\repos\FrontEnd\FrontEnd_Slidely\obj\Debug\FrontEnd_Slidely.vbproj.GenerateResource.cache
+C:\Users\AYUSH G\source\repos\FrontEnd\FrontEnd_Slidely\obj\Debug\FrontEnd_Slidely.vbproj.CoreCompileInputs.cache
+C:\Users\AYUSH G\source\repos\FrontEnd\FrontEnd_Slidely\obj\Debug\FrontEnd.925710C7.Up2Date
+C:\Users\AYUSH G\source\repos\FrontEnd\FrontEnd_Slidely\obj\Debug\FrontEnd_Slidely.exe
+C:\Users\AYUSH G\source\repos\FrontEnd\FrontEnd_Slidely\obj\Debug\FrontEnd_Slidely.xml
+C:\Users\AYUSH G\source\repos\FrontEnd\FrontEnd_Slidely\obj\Debug\FrontEnd_Slidely.pdb
